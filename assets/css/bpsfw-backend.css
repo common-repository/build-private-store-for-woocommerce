@@ -1,0 +1,71 @@
+.bpsfw_container {
+    width: 100%;
+}
+li.nav-tab {
+    cursor: pointer;
+    margin-bottom: 0px;
+}
+li.nav-tab.nav-tab-active {
+    margin-bottom: -1px;
+}
+.bpsfw_container .tab-content {
+    display: none;
+    padding: 15px 0;
+}
+.bpsfw_container .tab-content.current {
+    display: inherit;
+}
+
+img.avatar.avatar-96.photo {
+    width: 40px;
+    height: 40px;
+}
+img.bpsfw_rating_div {
+    width: 100px;
+    vertical-align: middle;
+}
+h3.table_header_text {
+    padding: 10px;
+    margin: 0;
+    background-color: #0071a1;
+    color: #fff;
+}
+table.data_table {
+    display: inline-block;
+    width: 100%;
+    padding: 10px;
+    margin-top: 10px;
+    background: white;
+    border: 1px solid #ababab;
+}
+table.data_table tbody {
+    display: inline-block;
+    width: 100%;
+}
+table.data_table tbody tr {
+    display: inline-block;
+    width: 100%;
+    text-align: left;
+    line-height: 2;
+}
+table.data_table tbody tr th {
+    display: inline-block;
+    padding: 10px;
+    width: 20%;
+    vertical-align: top;
+    font-weight: 600;
+}
+table.data_table tbody tr td {
+    display: inline-block;
+    padding: 10px;
+    width: 70%;
+}
+.card.bpsfw_notice {
+    max-width: 100%;
+}
+.card.bpsfw_notice a{
+    margin-right: 20px;
+}
+.bpsfw_tex {
+    width: 100%;
+}

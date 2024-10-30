@@ -1,0 +1,208 @@
+# Copyright (C) 2022 
+# This file is distributed under the same license as the Build Private Store For Woocommerce plugin.
+msgid ""
+msgstr ""
+"Project-Id-Version: Build Private Store For Woocommerce 2.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/build-private-store-for-woocommerce\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2022-06-23T11:14:35+02:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.5.0\n"
+"X-Domain: build-private-store-for-woocommerce\n"
+
+#. Plugin Name of the plugin
+msgid "Build Private Store For Woocommerce"
+msgstr ""
+
+#. Description of the plugin
+msgid "This plugin allows create OC Private Store For Woocommerce plugin."
+msgstr ""
+
+#: main/backend/bpsfw-backend.php:13
+msgid "Woocomerce Private Store Settings"
+msgstr ""
+
+#: main/backend/bpsfw-backend.php:16
+msgid "General"
+msgstr ""
+
+#: main/backend/bpsfw-backend.php:17
+msgid "Registration Form Settings"
+msgstr ""
+
+#: main/backend/bpsfw-backend.php:18
+msgid "New User Registration Settings"
+msgstr ""
+
+#: main/backend/bpsfw-backend.php:22
+msgid "General Control Setting"
+msgstr ""
+
+#: main/backend/bpsfw-backend.php:28
+msgid "Enable Private Store"
+msgstr ""
+
+#: main/backend/bpsfw-backend.php:32
+msgid "Enable Private Store Registered User"
+msgstr ""
+
+#: main/backend/bpsfw-backend.php:37
+msgid "Private Whole Website?"
+msgstr ""
+
+#: main/backend/bpsfw-backend.php:41
+#: main/backend/bpsfw-backend.php:150
+msgid "Enable This Option To Private Whole Website For Guest Users"
+msgstr ""
+
+#: main/backend/bpsfw-backend.php:46
+msgid "Private Products Price and Add to cart Button"
+msgstr ""
+
+#: main/backend/bpsfw-backend.php:50
+msgid "If this Enable option then  below product show but not show price and Add to cart button for guest user And not Check this option Then below product not show for guest user"
+msgstr ""
+
+#: main/backend/bpsfw-backend.php:55
+msgid "Login to see prices text"
+msgstr ""
+
+#: main/backend/bpsfw-backend.php:64
+msgid "Login to see prices text Color"
+msgstr ""
+
+#: main/backend/bpsfw-backend.php:72
+msgid "Private Products"
+msgstr ""
+
+#: main/backend/bpsfw-backend.php:89
+msgid "Private Product for guest User"
+msgstr ""
+
+#: main/backend/bpsfw-backend.php:94
+msgid "Private Product Categories"
+msgstr ""
+
+#: main/backend/bpsfw-backend.php:109
+msgid "Private Category for guest User"
+msgstr ""
+
+#: main/backend/bpsfw-backend.php:114
+msgid "Private Product Tags"
+msgstr ""
+
+#: main/backend/bpsfw-backend.php:129
+msgid "Private Tag for guest User"
+msgstr ""
+
+#: main/backend/bpsfw-backend.php:134
+msgid "Private Pages"
+msgstr ""
+
+#: main/backend/bpsfw-backend.php:158
+msgid "Private User Login/Registration Form Setting"
+msgstr ""
+
+#: main/backend/bpsfw-backend.php:164
+msgid "Login Form Title"
+msgstr ""
+
+#: main/backend/bpsfw-backend.php:168
+msgid "Enter the login form title"
+msgstr ""
+
+#: main/backend/bpsfw-backend.php:173
+msgid "Registration Form Title"
+msgstr ""
+
+#: main/backend/bpsfw-backend.php:177
+msgid "Enter the registration form title"
+msgstr ""
+
+#: main/backend/bpsfw-backend.php:182
+msgid "Form Title Color"
+msgstr ""
+
+#: main/backend/bpsfw-backend.php:194
+msgid "Approve New Users Registration Settings"
+msgstr ""
+
+#: main/backend/bpsfw-backend.php:200
+msgid "Manually Approve New Registration"
+msgstr ""
+
+#: main/backend/bpsfw-backend.php:204
+msgid "Disable manual approval of new users registration."
+msgstr ""
+
+#: main/backend/bpsfw-backend.php:210
+msgid "Message For Pending Account For Approval"
+msgstr ""
+
+#: main/backend/bpsfw-backend.php:214
+msgid "Message for users when account is pending for approval."
+msgstr ""
+
+#: main/backend/bpsfw-backend.php:220
+msgid "Account Disable Email"
+msgstr ""
+
+#: main/backend/bpsfw-backend.php:224
+msgid "Notify users will by an E-mail when their registration is rejected."
+msgstr ""
+
+#: main/backend/bpsfw-backend.php:229
+msgid "Account Reject Email Subject"
+msgstr ""
+
+#: main/backend/bpsfw-backend.php:233
+msgid "Account reject email subject"
+msgstr ""
+
+#: main/backend/bpsfw-backend.php:238
+msgid "Account Reject Email message"
+msgstr ""
+
+#: main/backend/bpsfw-backend.php:242
+msgid "Account reject email message"
+msgstr ""
+
+#: main/backend/bpsfw-backend.php:247
+msgid "Account Approve Email"
+msgstr ""
+
+#: main/backend/bpsfw-backend.php:251
+msgid "Notify users will by an E-mail when their registration is approved."
+msgstr ""
+
+#: main/backend/bpsfw-backend.php:256
+msgid "Account Approve Email Subject"
+msgstr ""
+
+#: main/backend/bpsfw-backend.php:260
+msgid "Account approve email subject"
+msgstr ""
+
+#: main/backend/bpsfw-backend.php:265
+msgid "Account Approve Email message"
+msgstr ""
+
+#: main/backend/bpsfw-backend.php:269
+msgid "Account approve email message"
+msgstr ""
+
+#: main/backend/bpsfw-backend.php:290
+msgid "Approve Confirm"
+msgstr ""
+
+#: main/backend/bpsfw-backend.php:291
+msgid "Denied Users"
+msgstr ""
+
+#: main/backend/bpsfw-backend.php:292
+msgid "User Pending"
+msgstr ""
